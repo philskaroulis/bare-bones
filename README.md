@@ -1,2 +1,2 @@
 # bare-bones
-Skeleton project used to seed repos
+Skeleton project used to seed my repos
